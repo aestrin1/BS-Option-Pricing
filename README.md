@@ -1,10 +1,10 @@
-# Black-Scholes-Pricing
+# Black-Scholes-Option-Pricing
 
 <h1 align="center">Black-Scholes Options Model with Greeks</h1>
 
 ## Project Description
 
-This project is a Black-Scholes Options Pricing model for European Options, including graphical visualization of the Option Greeks. It is a web-hosted interactive application, hosted using [Streamlit's](https://streamlit.io) Sharing functionality.
+This project is a Black-Scholes Options Pricing model for European Options and inclues graphical visualization of the Greeks. It is a web-hosted interactive application, hosted using [Streamlit's](https://streamlit.io) Sharing functionality.
 
 The project can be found here: [Link to Project](https://black-scholes-pricing-ggucuf4fovqnjzxtpskc6y.streamlit.app/)
 
@@ -12,7 +12,7 @@ The project can be found here: [Link to Project](https://black-scholes-pricing-g
 
 The **Black-Scholes model**, also known as the **Black-Scholes-Merton (BSM) model**, is a key concept in modern financial theory. This mathematical equation estimates the theoretical **value of options**, considering the impact of time and other risk factors.
 
-The Black-Scholes equation requires **five variables**:
+The Black-Scholes equation consists of **five variables**:
 
 - **Volatility** of the underlying asset.
 - **Price** of the underlying asset.
