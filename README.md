@@ -35,12 +35,12 @@ The Black-Scholes model makes several assumptions:
 
 Call option (C) and put option (P) prices are calculated using the following formulas:
 
-![Call Option Formula](call-formula(1).jpg)
-![Put Option Formula](put-formula (1).jpg)
+![Call Option Formula](call-formula.jpg)
+![Put Option Formula](put-formula.jpg)
 
 The formulas for d1 and d2 are:
 
-![d1 and d2 Formulas](d1-d2-formula (1).jpg)
+![d1 and d2 Formulas](d1-d2-formula.jpg)
 
 ## The Option Greeks
 
@@ -56,4 +56,4 @@ The Greeks include:
 
 Their formulas can be seen below:
 
-![Greek Formulas](greeks (1).png)
+![Greek Formulas](greeks.png)
