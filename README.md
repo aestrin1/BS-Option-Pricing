@@ -35,7 +35,7 @@ The Black-Scholes model makes several assumptions:
 
 Call option (C) and put option (P) prices are calculated using the following formulas:
 
-![Call Option Formula](call-formula (1).jpg)
+![Call Option Formula](call-formula(1).jpg)
 ![Put Option Formula](put-formula (1).jpg)
 
 The formulas for d1 and d2 are:
